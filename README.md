@@ -1,4 +1,4 @@
-#javascript-function-performance-measurement
+# javascript-function-performance-measurement
 It is an example of modifying an object of functions collection, with performace check.
 
 
